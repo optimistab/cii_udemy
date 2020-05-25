@@ -15,7 +15,7 @@
         <?php $this->load->view('users/login_view'); ?>
       </div>
 
-      <div class="col-9">
+      <div class="col-6">
 
         <?php  $this->load->view($main_view);
 
